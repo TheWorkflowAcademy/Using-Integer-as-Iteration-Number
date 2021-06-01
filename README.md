@@ -18,7 +18,7 @@ iterator = [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,1,17,18,19,20];
 ```
 
 ### Get the Integer Field Value & Set a Counter
-* Get the integer value from your record if applicable (this integer will be the number of times the function will be repeated). In this example, we'll just hard-code the integer variable value to 6.
+* Get the integer value from your record if applicable (this integer will determine the number of times the function will be repeated). In this example, we'll just hard-code the integer variable value to 6.
 * Set a counter for variable *n* and set it to 0 - this will be used to count the number of iterations.
 
 ```javascript
