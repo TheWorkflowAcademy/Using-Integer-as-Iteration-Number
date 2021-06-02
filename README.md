@@ -48,7 +48,7 @@ for each i in iterator
 	{
 		// Write your action script here
     
-    // Count the no. of iteration
+    		// Count the no. of iteration
 		n = n + 1;	
 	}
 }
