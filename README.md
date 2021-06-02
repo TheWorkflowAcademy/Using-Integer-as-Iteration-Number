@@ -1,5 +1,5 @@
 # Using-Integer-as-Iteration-Number
-A Deluge script that allows you to use an integer variable to determine the number of times a function should be executed in a loop.
+A Deluge script that lets you to use an integer variable to determine the number of times a function should be executed in a loop.
 
 ## Core Idea
 Suppose you have a function which you want to execute an X number of times in your script, depending on an integer value on a Zoho CRM record. To achieve that, you will need the following things:
